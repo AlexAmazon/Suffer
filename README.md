@@ -92,7 +92,7 @@ To add an effect, copy a small one such as `blur/`, rename it, edit `src/lib.rs`
 
 Suffer is free and made in spare time. If it is useful to you, a tip on Ko-fi helps keep it going. Thank you!
 <a href="https://ko-fi.com/alexamazon" target="_blank">
-  <img src="https://ko-fi.com" alt="Support me on Ko-fi" height="36">
+  <img src="![Support me on Ko-fi](https://shields.io)]" alt="Support me on Ko-fi" height="36">
 </a>
 
 ---
